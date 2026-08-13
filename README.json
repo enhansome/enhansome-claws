@@ -1,0 +1,519 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenClaw - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T23:11:13Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 386194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Agent - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:43:13Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 230104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanobot - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:03:54Z",
+            "owner": "HKUDS",
+            "repo": "nanobot",
+            "stars": 46945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AstrBot - Python - Agentic IM chatbot infrastructure with broad IM platform support, LLM integrations, plugins, and AI features.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:51:52Z",
+            "owner": "AstrBotDevs",
+            "repo": "AstrBot",
+            "stars": 39111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroClaw - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T21:53:47Z",
+            "owner": "zeroclaw-labs",
+            "repo": "zeroclaw",
+            "stars": 32570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoClaw - TypeScript - Lightweight container-sandboxed assistant designed to be simple to understand and extend via skills.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:07:10Z",
+            "owner": "nanocoai",
+            "repo": "nanoclaw",
+            "stars": 30509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PicoClaw - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:19:05Z",
+            "owner": "sipeed",
+            "repo": "picoclaw",
+            "stars": 29856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFang - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-02T08:13:12Z",
+            "owner": "RightNow-AI",
+            "repo": "openfang",
+            "stars": 18110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IronClaw - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T22:49:03Z",
+            "owner": "nearai",
+            "repo": "ironclaw",
+            "stars": 12607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NullClaw - Zig - Fully autonomous assistant infrastructure designed for tiny binaries, low memory usage, and highly portable deployment.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-07-19T04:20:06Z",
+            "owner": "nullclaw",
+            "repo": "nullclaw",
+            "stars": 8023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MimiClaw - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T13:38:23Z",
+            "owner": "memovai",
+            "repo": "mimiclaw",
+            "stars": 5655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyClaw - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T12:34:57Z",
+            "owner": "TinyAGI",
+            "repo": "tinyagi",
+            "stars": 3606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moltis - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T15:45:22Z",
+            "owner": "moltis-org",
+            "repo": "moltis",
+            "stars": 2820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zclaw - C - The smallest possible AI personal assistant for ESP32.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-17T03:43:36Z",
+            "owner": "tnm",
+            "repo": "zclaw",
+            "stars": 2203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "droidclaw - TypeScript - OpenClaw-inspired assistant tailored for Android workflows with lightweight deployment and mobile-first automation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-28T05:51:46Z",
+            "owner": "unitedbyai",
+            "repo": "droidclaw",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picobot - Go - A lightweight self-hosted bot in a single binary, written in Go.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-28T15:42:55Z",
+            "owner": "louisho5",
+            "repo": "picobot",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCrabs - Rust - The self-improving autonomous AI agent. Every channel. Multi-provider LLM support, tool use, TUI, fallback chains, and cron jobs.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T02:02:38Z",
+            "owner": "adolfousier",
+            "repo": "opencrabs",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microclaw - Rust - An agentic AI assistant for chat surfaces, inspired by nanoclaw and incorporating some of its design ideas.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:10:41Z",
+            "owner": "microclaw",
+            "repo": "microclaw",
+            "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeptoClaw - Rust - Ultra-lightweight ~4MB binary with 7-layer security (container isolation, prompt injection detection, secret scanning). One-command OpenClaw migration.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T10:08:50Z",
+            "owner": "qhkm",
+            "repo": "zeptoclaw",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LettaBot - TypeScript - Personal AI assistant with persistent memory across Telegram, Slack, WhatsApp, and Signal.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T03:10:15Z",
+            "owner": "letta-ai",
+            "repo": "lettabot",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HermitClaw - Python - A tiny autonomous AI creature that lives in a folder, continuously researching and generating reports, scripts, and notes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T18:26:12Z",
+            "owner": "brendanhogan",
+            "repo": "hermitclaw",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "safeclaw - Python - OpenClaw alternative focused on safe text and voice interactions without relying on an LLM, while preserving core assistant capabilities.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T15:24:29Z",
+            "owner": "princezuda",
+            "repo": "safestclaw",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subzeroclaw - C - A skill-driven agentic daemon for edge hardware.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-13T18:53:49Z",
+            "owner": "genlayerlabs",
+            "repo": "subzeroclaw",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SupaClaw - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-15T11:24:41Z",
+            "owner": "vincenzodomina",
+            "repo": "supaclaw",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autobot - Crystal - AI assistant with kernel-enforced sandboxing, multi-provider LLM, voice, vision, cron, and MCP tools.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-03T16:52:42Z",
+            "owner": "crystal-autobot",
+            "repo": "autobot",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pickle-bot - Python - A lightweight self-hosted personal AI assistant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T05:53:57Z",
+            "owner": "czl9707",
+            "repo": "pickle-bot",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawDroid - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-21T14:43:11Z",
+            "owner": "KarakuriAgent",
+            "repo": "clawdroid",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabyClaw - JavaScript - Lightweight single-file alternative to OpenClaw built on Claude Agent SDK. Telegram-controlled with voice messages, personality adaptation, and cron automation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-17T12:12:12Z",
+            "owner": "yogesharc",
+            "repo": "babyclaw",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atombot - Python - Atomic-lightweight personal AI assistant (~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T02:32:08Z",
+            "owner": "daegwang",
+            "repo": "atombot",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clawlet - Python - A lightweight AI agent framework with identity awareness inspired by OpenClaw, aimed to be very simple to set up and easy to use, get up and running in 2 minutes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-04T14:15:15Z",
+            "owner": "Kxrbx",
+            "repo": "Clawlet",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrinityClaw - Python - Self-hosted local only AI agent with web automation, memory, code execution, email, calendar, and local/cloud LLM support. access.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T17:48:08Z",
+            "owner": "TrinityClaw",
+            "repo": "trinity-claw",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shrew - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-22T19:28:03Z",
+            "owner": "Masmedeam",
+            "repo": "shrew",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngelClaw - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T08:51:50Z",
+            "owner": "Abdur-rahmaanJ",
+            "repo": "angel-claw",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moxxy - Rust - A self-hosted multi-agent AI framework built in Rust.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:59:39Z",
+            "owner": "moxxy-ai",
+            "repo": "moxxy",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "troublemaker - TypeScript - Mom, liberated. Multi-platform AI agent runtime.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:32:39Z",
+            "owner": "tinyfatco",
+            "repo": "troublemaker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowly AI - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Main Projects"
+    },
+    {
+      "description": "Contributions are welcome. Please read CONTRIBUTING.md before opening a pull request.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:12:29.458Z",
+    "original_repository": "machinae/awesome-claws",
+    "original_repository_sha": "ed70e80d412aff0a69a2f1eaed6a77520cf5de1d",
+    "enhanced_repository": "enhansome/enhansome-claws",
+    "enhanced_repository_description": null,
+    "title": "Awesome Claws with stars"
+  }
+}

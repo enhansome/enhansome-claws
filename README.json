@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:47:42Z",
+            "last_commit": "2026-08-16T22:47:47Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386399
+            "stars": 386464
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:36:21Z",
+            "last_commit": "2026-08-16T22:43:12Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 231063
+            "stars": 231480
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T19:21:31Z",
+            "last_commit": "2026-08-16T20:00:22Z",
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47038
+            "stars": 47067
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:19:56Z",
+            "last_commit": "2026-08-16T09:02:32Z",
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39214
+            "stars": 39256
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T22:46:21Z",
+            "last_commit": "2026-08-16T22:28:11Z",
             "owner": "zeroclaw-labs",
             "repo": "zeroclaw",
-            "stars": 32591
+            "stars": 32595
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:25:26Z",
+            "last_commit": "2026-08-16T21:32:50Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30512
+            "stars": 30522
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-14T18:19:48Z",
             "owner": "sipeed",
             "repo": "picoclaw",
-            "stars": 29860
+            "stars": 29861
           }
         },
         {
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T22:33:28Z",
+            "last_commit": "2026-08-16T20:39:18Z",
             "owner": "nearai",
             "repo": "ironclaw",
-            "stars": 12602
+            "stars": 12604
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-19T04:20:06Z",
             "owner": "nullclaw",
             "repo": "nullclaw",
-            "stars": 8024
+            "stars": 8025
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-15T14:32:50Z",
             "owner": "memovai",
             "repo": "mimiclaw",
-            "stars": 5691
+            "stars": 5702
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-03-30T12:34:57Z",
             "owner": "TinyAGI",
             "repo": "tinyagi",
-            "stars": 3607
+            "stars": 3608
           }
         },
         {
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T15:30:17Z",
+            "last_commit": "2026-08-16T17:31:15Z",
             "owner": "moltis-org",
             "repo": "moltis",
             "stars": 2820
@@ -196,7 +196,7 @@
             "last_commit": "2026-05-17T03:43:36Z",
             "owner": "tnm",
             "repo": "zclaw",
-            "stars": 2205
+            "stars": 2210
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-02-28T05:51:46Z",
             "owner": "unitedbyai",
             "repo": "droidclaw",
-            "stars": 1560
+            "stars": 1561
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-03-28T15:42:55Z",
             "owner": "louisho5",
             "repo": "picobot",
-            "stars": 1304
+            "stars": 1308
           }
         },
         {
@@ -249,7 +249,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T20:53:52Z",
+            "last_commit": "2026-08-16T07:19:32Z",
             "owner": "microclaw",
             "repo": "microclaw",
             "stars": 731
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-08-03T16:52:42Z",
+            "last_commit": "2026-08-16T16:14:16Z",
             "owner": "crystal-autobot",
             "repo": "autobot",
             "stars": 45
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:48:43.908Z",
+    "last_updated": "2026-08-16T22:47:56.989Z",
     "original_repository": "machinae/awesome-claws",
     "original_repository_sha": "ed70e80d412aff0a69a2f1eaed6a77520cf5de1d",
     "enhanced_repository": "enhansome/enhansome-claws",

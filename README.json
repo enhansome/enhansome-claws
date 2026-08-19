@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:51:50Z",
+            "last_commit": "2026-08-19T12:16:46Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386672
+            "stars": 386761
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-18T22:25:50Z",
+            "last_commit": "2026-08-19T10:40:40Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 232519
+            "stars": 232837
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147094660,
             "language": "Python",
-            "last_commit": "2026-08-18T19:22:27Z",
+            "last_commit": "2026-08-19T10:54:57Z",
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47147
+            "stars": 47171
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575865240,
             "language": "Python",
-            "last_commit": "2026-08-17T18:32:10Z",
+            "last_commit": "2026-08-19T04:46:18Z",
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39342
+            "stars": 39374
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156956890,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:48:31Z",
+            "last_commit": "2026-08-19T11:15:43Z",
             "owner": "zeroclaw-labs",
             "repo": "zeroclaw",
-            "stars": 32611
+            "stars": 32617
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:52:03Z",
+            "last_commit": "2026-08-19T11:32:34Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30544
+            "stars": 30550
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1149707767,
             "language": "Go",
-            "last_commit": "2026-08-14T18:19:48Z",
+            "last_commit": "2026-08-19T09:17:33Z",
             "owner": "sipeed",
             "repo": "picoclaw",
-            "stars": 29874
+            "stars": 29878
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1166139870,
             "language": "Rust",
             "last_commit": "2026-07-02T08:13:12Z",
             "owner": "RightNow-AI",
@@ -122,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148615527,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:39:59Z",
+            "last_commit": "2026-08-19T11:52:16Z",
             "owner": "nearai",
             "repo": "ironclaw",
             "stars": 12605
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159542259,
             "language": "Zig",
             "last_commit": "2026-07-19T04:20:06Z",
             "owner": "nullclaw",
             "repo": "nullclaw",
-            "stars": 8031
+            "stars": 8033
           }
         },
         {
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1149403151,
             "language": "C",
             "last_commit": "2026-08-15T14:32:50Z",
             "owner": "memovai",
             "repo": "mimiclaw",
-            "stars": 5707
+            "stars": 5709
           }
         },
         {
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153146773,
             "language": "TypeScript",
             "last_commit": "2026-03-30T12:34:57Z",
             "owner": "TinyAGI",
             "repo": "tinyagi",
-            "stars": 3609
+            "stars": 3608
           }
         },
         {
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1145420469,
             "language": "Rust",
-            "last_commit": "2026-08-18T21:25:11Z",
+            "last_commit": "2026-08-19T04:40:38Z",
             "owner": "moltis-org",
             "repo": "moltis",
-            "stars": 2826
+            "stars": 2827
           }
         },
         {
@@ -192,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159494869,
             "language": "C",
             "last_commit": "2026-05-17T03:43:36Z",
             "owner": "tnm",
             "repo": "zclaw",
-            "stars": 2218
+            "stars": 2219
           }
         },
         {
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151091760,
             "language": "TypeScript",
             "last_commit": "2026-02-28T05:51:46Z",
             "owner": "unitedbyai",
@@ -220,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152268833,
             "language": "Go",
             "last_commit": "2026-03-28T15:42:55Z",
             "owner": "louisho5",
             "repo": "picobot",
-            "stars": 1341
+            "stars": 1339
           }
         },
         {
@@ -234,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157543432,
             "language": "Rust",
             "last_commit": "2026-08-18T17:57:02Z",
             "owner": "adolfousier",
             "repo": "opencrabs",
-            "stars": 900
+            "stars": 901
           }
         },
         {
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152019564,
             "language": "Rust",
             "last_commit": "2026-08-16T07:19:32Z",
             "owner": "microclaw",
@@ -262,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156147627,
             "language": "Rust",
             "last_commit": "2026-07-30T10:08:50Z",
             "owner": "qhkm",
             "repo": "zeptoclaw",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1144741416,
             "language": "TypeScript",
             "last_commit": "2026-05-25T03:10:15Z",
             "owner": "letta-ai",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1158763619,
             "language": "Python",
             "last_commit": "2026-02-17T18:26:12Z",
             "owner": "brendanhogan",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148395300,
             "language": "Python",
             "last_commit": "2026-06-19T15:24:29Z",
             "owner": "princezuda",
@@ -318,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159321596,
             "language": "C",
             "last_commit": "2026-08-18T15:34:25Z",
             "owner": "genlayerlabs",
             "repo": "subzeroclaw",
-            "stars": 126
+            "stars": 128
           }
         },
         {
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156119413,
             "language": "TypeScript",
             "last_commit": "2026-03-15T11:24:41Z",
             "owner": "vincenzodomina",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1156577017,
             "language": "Crystal",
             "last_commit": "2026-08-18T17:12:57Z",
             "owner": "crystal-autobot",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1160553237,
             "language": "Python",
             "last_commit": "2026-07-15T05:53:57Z",
             "owner": "czl9707",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159853066,
             "language": "Go",
             "last_commit": "2026-03-21T14:43:11Z",
             "owner": "KarakuriAgent",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153681252,
             "language": "JavaScript",
             "last_commit": "2026-02-17T12:12:12Z",
             "owner": "yogesharc",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174021845,
             "language": "Python",
             "last_commit": "2026-03-14T02:32:08Z",
             "owner": "daegwang",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1154783509,
             "language": "Python",
             "last_commit": "2026-04-04T14:15:15Z",
             "owner": "Kxrbx",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175496622,
             "language": "Python",
             "last_commit": "2026-05-23T17:48:08Z",
             "owner": "TrinityClaw",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162883404,
             "language": "Go",
             "last_commit": "2026-03-22T19:28:03Z",
             "owner": "Masmedeam",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1159020131,
             "language": "Python",
             "last_commit": "2026-04-28T08:51:50Z",
             "owner": "Abdur-rahmaanJ",
@@ -472,8 +505,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1237065288,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:40:51Z",
+            "last_commit": "2026-08-19T12:09:24Z",
             "owner": "moxxy-ai",
             "repo": "moxxy",
             "stars": 2
@@ -486,31 +520,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1311673634,
             "language": "TypeScript",
             "last_commit": "2026-08-18T14:17:53Z",
             "owner": "tinyfatco",
             "repo": "troublemaker",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Flowly AI - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Main Projects"
-    },
-    {
-      "description": "Contributions are welcome. Please read CONTRIBUTING.md before opening a pull request.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:51:55.954Z",
+    "last_updated": "2026-08-19T12:19:03.162Z",
     "original_repository": "machinae/awesome-claws",
+    "original_repository_id": 1161924963,
     "original_repository_sha": "ed70e80d412aff0a69a2f1eaed6a77520cf5de1d",
     "enhanced_repository": "enhansome/enhansome-claws",
     "enhanced_repository_description": null,

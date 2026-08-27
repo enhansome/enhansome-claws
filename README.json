@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:28:13Z",
+            "last_commit": "2026-08-27T11:31:45Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387733
+            "stars": 387779
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-27T03:18:12Z",
+            "last_commit": "2026-08-27T11:19:26Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 236941
+            "stars": 237135
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1147094660,
             "language": "Python",
-            "last_commit": "2026-08-27T03:27:18Z",
+            "last_commit": "2026-08-27T09:53:29Z",
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47436
+            "stars": 47455
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 575865240,
             "language": "Python",
-            "last_commit": "2026-08-26T16:57:35Z",
+            "last_commit": "2026-08-27T11:04:57Z",
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39659
+            "stars": 39678
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 1156956890,
             "language": "Rust",
-            "last_commit": "2026-08-27T01:16:24Z",
+            "last_commit": "2026-08-27T10:31:58Z",
             "owner": "zeroclaw-labs",
             "repo": "zeroclaw",
             "stars": 32662
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-19T09:17:33Z",
             "owner": "sipeed",
             "repo": "picoclaw",
-            "stars": 29911
+            "stars": 29912
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-02T08:13:12Z",
             "owner": "RightNow-AI",
             "repo": "openfang",
-            "stars": 18135
+            "stars": 18134
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 1148615527,
             "language": "Rust",
-            "last_commit": "2026-08-27T03:23:18Z",
+            "last_commit": "2026-08-27T10:40:39Z",
             "owner": "nearai",
             "repo": "ironclaw",
-            "stars": 12607
+            "stars": 12603
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-07-19T04:20:06Z",
             "owner": "nullclaw",
             "repo": "nullclaw",
-            "stars": 8052
+            "stars": 8050
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 1145420469,
             "language": "Rust",
-            "last_commit": "2026-08-26T18:24:04Z",
+            "last_commit": "2026-08-27T09:42:39Z",
             "owner": "moltis-org",
             "repo": "moltis",
-            "stars": 2837
+            "stars": 2838
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1157543432,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:05:40Z",
+            "last_commit": "2026-08-27T06:44:33Z",
             "owner": "adolfousier",
             "repo": "opencrabs",
             "stars": 910
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 1152019564,
             "language": "Rust",
-            "last_commit": "2026-08-27T02:13:26Z",
+            "last_commit": "2026-08-27T05:29:24Z",
             "owner": "microclaw",
             "repo": "microclaw",
             "stars": 732
@@ -285,7 +285,7 @@
             "last_commit": "2026-07-30T10:08:50Z",
             "owner": "qhkm",
             "repo": "zeptoclaw",
-            "stars": 649
+            "stars": 648
           }
         },
         {
@@ -533,9 +533,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:28:20.971Z",
-    "original_repository": "machinae/awesome-claws",
-    "original_repository_id": 1161924963,
+    "last_updated": "2026-08-27T11:32:12.474Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1161924963,
+      "language": null,
+      "last_commit": "2026-03-17T19:30:15Z",
+      "owner": "machinae",
+      "repo": "awesome-claws",
+      "stars": 497
+    },
     "original_repository_sha": "ed70e80d412aff0a69a2f1eaed6a77520cf5de1d",
     "enhanced_repository": "enhansome/enhansome-claws",
     "enhanced_repository_description": null,

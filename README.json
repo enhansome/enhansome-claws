@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:14:00Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:47:53Z",
+            "open_issues": 5728,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387867
+            "stars": 387940,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -26,12 +39,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-28T05:45:48Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:48:23Z",
+            "open_issues": 37173,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237428
+            "stars": 237792,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -42,12 +74,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+            "homepage": "https://nanobot.wiki",
             "id": 1147094660,
             "language": "Python",
-            "last_commit": "2026-08-28T05:52:03Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:44:09Z",
+            "open_issues": 756,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47475
+            "stars": 47507,
+            "topics": [
+              "agent-framework",
+              "ai-agent",
+              "ai-agents",
+              "chatbot",
+              "chatops",
+              "discord-bot",
+              "llm-agents",
+              "llms",
+              "local-llm",
+              "mcp",
+              "model-context-protocol",
+              "multi-agent",
+              "openai-compatible",
+              "openclaw",
+              "personal-ai-assistant",
+              "python",
+              "self-hosted",
+              "telegram-bot-ai-assistant",
+              "webui",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -58,12 +116,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+            "homepage": "https://astrbot.app",
             "id": 575865240,
             "language": "Python",
-            "last_commit": "2026-08-27T11:04:57Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T09:26:43Z",
+            "open_issues": 1457,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39708
+            "stars": 39742,
+            "topics": [
+              "agent",
+              "ai",
+              "astrbot",
+              "chatbot",
+              "chatgpt",
+              "discord",
+              "docker",
+              "gemini",
+              "gpt",
+              "llama",
+              "llm",
+              "mcp",
+              "openai",
+              "python",
+              "qq",
+              "qqbot",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -74,12 +155,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+            "homepage": "https://www.zeroclawlabs.ai/",
             "id": 1156956890,
             "language": "Rust",
-            "last_commit": "2026-08-28T06:07:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:39:03Z",
+            "open_issues": 809,
             "owner": "zeroclaw-labs",
             "repo": "zeroclaw",
-            "stars": 32668
+            "stars": 32669,
+            "topics": [
+              "agent",
+              "agentic",
+              "ai",
+              "infra",
+              "ml",
+              "openclaw",
+              "os",
+              "zeroclaw"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -90,12 +185,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+            "homepage": "https://nanoclaw.dev",
             "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:12:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:32:27Z",
+            "open_issues": 1068,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30628
+            "stars": 30633,
+            "topics": [
+              "ai-agents",
+              "ai-assistant",
+              "claude-code",
+              "claude-skills",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -106,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+            "homepage": "https://picoclaw.io",
             "id": 1149707767,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:13:30Z",
+            "open_issues": 32,
             "owner": "sipeed",
             "repo": "picoclaw",
-            "stars": 29914
+            "stars": 29913,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -122,12 +233,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Agent Operating System",
+            "homepage": "https://www.openfang.sh/",
             "id": 1166139870,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T08:13:12Z",
+            "open_issues": 114,
             "owner": "RightNow-AI",
             "repo": "openfang",
-            "stars": 18138
+            "stars": 18145,
+            "topics": [
+              "agent-framework",
+              "ai-agents",
+              "llm",
+              "mcp",
+              "open-source",
+              "openclaw",
+              "operating-system",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -138,12 +263,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+            "homepage": "https://www.ironclaw.com",
             "id": 1148615527,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:20:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:44:47Z",
+            "open_issues": 1477,
             "owner": "nearai",
             "repo": "ironclaw",
-            "stars": 12604
+            "stars": 12602,
+            "topics": [
+              "codeact",
+              "openclaw",
+              "rlm",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -154,12 +290,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+            "homepage": "https://nullclaw.io",
             "id": 1159542259,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2026-07-19T04:20:06Z",
+            "open_issues": 93,
             "owner": "nullclaw",
             "repo": "nullclaw",
-            "stars": 8050
+            "stars": 8051,
+            "topics": [
+              "ai",
+              "assistant",
+              "personal",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -170,12 +316,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
+            "homepage": "https://mimiclaw.io",
             "id": 1149403151,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-21T14:17:29Z",
+            "open_issues": 111,
             "owner": "memovai",
             "repo": "mimiclaw",
-            "stars": 5731
+            "stars": 5730,
+            "topics": [
+              "ai",
+              "assistant",
+              "clawdbot",
+              "edge-ai-agents",
+              "memory",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -186,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TinyAGI is the agent teams orchestrator for One Person Company. (fka TinyClaw)",
+            "homepage": "https://office.tinyagicompany.com/",
             "id": 1153146773,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-30T12:34:57Z",
+            "open_issues": 75,
             "owner": "TinyAGI",
             "repo": "tinyagi",
-            "stars": 3609
+            "stars": 3609,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -202,12 +365,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+            "homepage": "https://moltis.org",
             "id": 1145420469,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:51:39Z",
+            "open_issues": 82,
             "owner": "moltis-org",
             "repo": "moltis",
-            "stars": 2838
+            "stars": 2838,
+            "topics": [
+              "ai-agent",
+              "ai-assistant",
+              "clawdbot",
+              "llm",
+              "mcp",
+              "openclaw",
+              "rust",
+              "sandbox",
+              "self-hosted",
+              "single-binary",
+              "telegram-bot",
+              "voice-assistant"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -218,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.",
+            "homepage": "https://zclaw.dev",
             "id": 1159494869,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-17T03:43:36Z",
+            "open_issues": 12,
             "owner": "tnm",
             "repo": "zclaw",
-            "stars": 2222
+            "stars": 2222,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -234,12 +420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done. ",
+            "homepage": "https://droidclaw.ai",
             "id": 1151091760,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-28T05:51:46Z",
+            "open_issues": 19,
             "owner": "unitedbyai",
             "repo": "droidclaw",
-            "stars": 1558
+            "stars": 1558,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -250,12 +441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight self-hosted bot in a single binary, written in Go.",
+            "homepage": null,
             "id": 1152268833,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-28T15:42:55Z",
+            "open_issues": 20,
             "owner": "louisho5",
             "repo": "picobot",
-            "stars": 1340
+            "stars": 1340,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -266,12 +462,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The all-in-one AI agent living in your terminal. Build landing, mobile apps, backends, manages files, deep research, schedule tasks and events. Self-improving, self-healing, fully autonomous. TUI, CLI and Daemon. Connect to your favorite channels.",
+            "homepage": "https://opencrabs.com",
             "id": 1157543432,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T06:44:33Z",
+            "open_issues": 13,
             "owner": "adolfousier",
             "repo": "opencrabs",
-            "stars": 913
+            "stars": 913,
+            "topics": [
+              "agent-orchestration",
+              "agentic-ai",
+              "agentic-framework",
+              "autonomous-agents",
+              "harness",
+              "harness-framework",
+              "open-source",
+              "opencrabs",
+              "orchestration-framework",
+              "recursive-self-improvement",
+              "rsi",
+              "self-healing",
+              "self-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -282,12 +497,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦀An agentic AI assistant that lives in your chats, inspired by nanoclaw and incorporating some of its design ideas. Built with Rust 🦀",
+            "homepage": "https://microclaw.org",
             "id": 1152019564,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:03:27Z",
+            "open_issues": 1,
             "owner": "microclaw",
             "repo": "microclaw",
-            "stars": 730
+            "stars": 730,
+            "topics": [
+              "bot",
+              "nanoclaw",
+              "openclaw",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -298,12 +523,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, small, secure, local-first personal AI assistant infrastructure: one Rust binary for tools, memory, channels, providers, and sandboxed autonomy.",
+            "homepage": "https://zeptoclaw.com/",
             "id": 1156147627,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T10:08:50Z",
+            "open_issues": 47,
             "owner": "qhkm",
             "repo": "zeptoclaw",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "open-source",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -314,12 +549,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived - has been replaced by Letta Code channels/schedules!",
+            "homepage": "https://docs.letta.com/letta-code/channels",
             "id": 1144741416,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T03:10:15Z",
+            "open_issues": 84,
             "owner": "letta-ai",
             "repo": "lettabot",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -330,12 +570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1158763619,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-17T18:26:12Z",
+            "open_issues": 7,
             "owner": "brendanhogan",
             "repo": "hermitclaw",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -346,12 +591,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safestclaw is the alternative to openclaw.. You can naturally chat with it via text and voice, and you can choose not to use a language model., By default it picks up on intent and semantics..  No prompt injection while you get over ninety percent of what openclaw does plus tts and voice to text  ",
+            "homepage": null,
             "id": 1148395300,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-19T15:24:29Z",
+            "open_issues": 2,
             "owner": "princezuda",
             "repo": "safestclaw",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "agentic-ai",
+              "ai",
+              "ai-agent",
+              "ai-assistant",
+              "ai-tools",
+              "openclaw",
+              "safe",
+              "safeai"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -362,12 +621,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agent small enough to run anywhere. A minimal agentic runtime in C — ~380 lines, 54KB binary, ~2MB RAM. A skill file + an LLM + a shell loop, no framework.",
+            "homepage": "https://subzeroclaw.com",
             "id": 1159321596,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-22T07:27:48Z",
+            "open_issues": 2,
             "owner": "genlayerlabs",
             "repo": "subzeroclaw",
-            "stars": 130
+            "stars": 131,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "ai-agent",
+              "anti-framework",
+              "c",
+              "edge-computing",
+              "llm",
+              "minimal",
+              "openrouter",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -378,12 +653,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic version of OpenClaw but built entirely on Supabase built-in features.",
+            "homepage": "https://github.com/vincenzodomina/supaclaw",
             "id": 1156119413,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-15T11:24:41Z",
+            "open_issues": 2,
             "owner": "vincenzodomina",
             "repo": "supaclaw",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "agents",
+              "ai",
+              "openclaw",
+              "supabase",
+              "vercel-ai-sdk"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -394,12 +680,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-efficient personal AI assistant powered by Crystal",
+            "homepage": "https://crystal-autobot.github.io/autobot/",
             "id": 1156577017,
             "language": "Crystal",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:18:24Z",
+            "open_issues": 4,
             "owner": "crystal-autobot",
             "repo": "autobot",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "agent-framework",
+              "agentic-ai",
+              "crystal-lang"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -410,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own AI assistant, speak like a cat.",
+            "homepage": null,
             "id": 1160553237,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-15T05:53:57Z",
+            "open_issues": 1,
             "owner": "czl9707",
             "repo": "pickle-bot",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -426,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android AI assistant with an embedded Go backend. Install the APK, launch, and start chatting — no separate server setup needed. ",
+            "homepage": null,
             "id": 1159853066,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-21T14:43:11Z",
+            "open_issues": 10,
             "owner": "KarakuriAgent",
             "repo": "clawdroid",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -442,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight alternative to OpenClaw built on Claude Agent SDK.",
+            "homepage": null,
             "id": 1153681252,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-17T12:12:12Z",
+            "open_issues": 0,
             "owner": "yogesharc",
             "repo": "babyclaw",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -458,12 +768,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny but powerful personal AI assistant 🐙",
+            "homepage": null,
             "id": 1174021845,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-14T02:32:08Z",
+            "open_issues": 0,
             "owner": "daegwang",
             "repo": "atombot",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "agent",
+              "ai",
+              "assistant",
+              "llm",
+              "openclaw",
+              "personal",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -474,12 +797,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌸 A lightweight AI agent framework with identity awareness inspired by OpenClaw, aimed to be very simple to set up and easy to use, get up and running in 2 minutes.",
+            "homepage": null,
             "id": 1154783509,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-04T14:15:15Z",
+            "open_issues": 0,
             "owner": "Kxrbx",
             "repo": "Clawlet",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai-agents",
+              "clawdbot",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -490,12 +822,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-hosted AI agent that thinks, acts, and improves itself – all running privately on your own machine. Browses the web, writes and executes code, manages files, sends emails, monitors URLs, builds websites, and learns from every interaction.",
+            "homepage": "https://trinityclaw.com",
             "id": 1175496622,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-23T17:48:08Z",
+            "open_issues": 0,
             "owner": "TrinityClaw",
             "repo": "trinity-claw",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agent-skills",
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "ai-assistant",
+              "ai-tools",
+              "automation",
+              "localagent",
+              "own-your-data",
+              "persistant-memory",
+              "self-improving-agent"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -506,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1162883404,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-22T19:28:03Z",
+            "open_issues": 0,
             "owner": "Masmedeam",
             "repo": "shrew",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -522,12 +876,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lean. Compatible. Based OpenClaw. Python ❤️",
+            "homepage": null,
             "id": 1159020131,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-28T08:51:50Z",
+            "open_issues": 3,
             "owner": "Abdur-rahmaanJ",
             "repo": "angel-claw",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai-agents",
+              "clawdbot",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -538,12 +901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Block-based, modular agentic loop framework for TypeScript. Swap LLM providers, loop strategies, tools, and frontends as auto-discovered and hot-reloadable plugins. Drive one Session from your terminal, Telegram, or HTTP.",
+            "homepage": "https://moxxy.ai",
             "id": 1237065288,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:40:18Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:47:15Z",
+            "open_issues": 14,
             "owner": "moxxy-ai",
             "repo": "moxxy",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         },
@@ -554,12 +922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiplatform AI agent runtime.",
+            "homepage": null,
             "id": 1311673634,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T07:34:45Z",
+            "open_issues": 3,
             "owner": "tinyfatco",
             "repo": "troublemaker",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
         }
@@ -568,15 +941,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:14:08.386Z",
+    "last_updated": "2026-08-29T03:48:30.803Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome AI agents inspired by OpenClaw",
+      "homepage": null,
       "id": 1161924963,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-03-17T19:30:15Z",
+      "open_issues": 19,
       "owner": "machinae",
       "repo": "awesome-claws",
-      "stars": 498
+      "stars": 498,
+      "topics": [
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "openclaw"
+      ]
     },
     "original_repository_sha": "ed70e80d412aff0a69a2f1eaed6a77520cf5de1d",
     "enhanced_repository": "enhansome/enhansome-claws",

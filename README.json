@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:47:53Z",
-            "open_issues": 5728,
+            "last_commit": "2026-08-29T04:41:21Z",
+            "open_issues": 5725,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387940,
+            "stars": 387949,
             "topics": [
               "ai",
               "assistant",
@@ -44,11 +44,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:48:23Z",
-            "open_issues": 37173,
+            "last_commit": "2026-08-29T04:39:01Z",
+            "open_issues": 37196,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237792,
+            "stars": 237804,
             "topics": [
               "ai",
               "ai-agent",
@@ -83,7 +83,7 @@
             "open_issues": 756,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 47507,
+            "stars": 47509,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -125,7 +125,7 @@
             "open_issues": 1457,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 39742,
+            "stars": 39743,
             "topics": [
               "agent",
               "ai",
@@ -194,7 +194,7 @@
             "open_issues": 1068,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30633,
+            "stars": 30634,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -268,7 +268,7 @@
             "id": 1148615527,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:44:47Z",
+            "last_commit": "2026-08-29T04:04:32Z",
             "open_issues": 1477,
             "owner": "nearai",
             "repo": "ironclaw",
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:48:30.803Z",
+    "last_updated": "2026-08-29T04:41:25.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI agents inspired by OpenClaw",

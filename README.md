@@ -10,23 +10,23 @@
 
 ## Main Projects
 
-* **[OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,602 | 🐛 9,495 | 🌐 TypeScript | 📅 2026-10-08** - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.
-* **[Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 251,959 | 🐛 47,742 | 🌐 Python | 📅 2026-10-08** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
-* **[nanobot](https://github.com/HKUDS/nanobot) ⭐ 48,844 | 🐛 840 | 🌐 Python | 📅 2026-10-08** - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.
-* **[AstrBot](https://github.com/AstrBotDevs/AstrBot) ⭐ 41,525 | 🐛 1,636 | 🌐 Python | 📅 2026-10-07** - Python - Agentic IM chatbot infrastructure with broad IM platform support, LLM integrations, plugins, and AI features.
-* **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) ⭐ 32,942 | 🐛 957 | 🌐 Rust | 📅 2026-10-08** - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.
-* **[NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,893 | 🐛 1,040 | 🌐 TypeScript | 📅 2026-10-06** - TypeScript - Lightweight container-sandboxed assistant designed to be simple to understand and extend via skills.
-* **[PicoClaw](https://github.com/sipeed/picoclaw) ⭐ 30,011 | 🐛 51 | 🌐 Go | 📅 2026-09-24** - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.
-* **[OpenFang](https://github.com/RightNow-AI/openfang) ⭐ 18,214 | 🐛 126 | 🌐 Rust | 📅 2026-07-02** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
-* **[IronClaw](https://github.com/nearai/ironclaw) ⭐ 12,642 | 🐛 1,545 | 🌐 Rust | 📅 2026-10-07** - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.
-* **[NullClaw](https://github.com/nullclaw/nullclaw) ⭐ 8,106 | 🐛 69 | 🌐 Zig | 📅 2026-10-05** - Zig - Fully autonomous assistant infrastructure designed for tiny binaries, low memory usage, and highly portable deployment.
-* **[MimiClaw](https://github.com/memovai/mimiclaw) ⭐ 5,784 | 🐛 110 | 🌐 C | 📅 2026-10-04** - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.
+* **[OpenClaw](https://github.com/openclaw/openclaw) ⭐ 391,486 | 🐛 9,556 | 🌐 TypeScript | 📅 2026-10-09** - TypeScript - The original full-featured personal AI assistant with multi-agent routing, voice wake, live canvas, companion apps, and 15+ messaging channels.
+* **[Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐ 252,060 | 🐛 47,839 | 🌐 Python | 📅 2026-10-09** - Python / TypeScript - Self-improving AI agent with autonomous skill creation, persistent memory, multi-platform messaging, and subagent delegation.
+* **[nanobot](https://github.com/HKUDS/nanobot) ⭐ 48,881 | 🐛 809 | 🌐 Python | 📅 2026-10-08** - Python - Ultra-lightweight OpenClaw-style assistant focused on research workflows, one-click deploy, MCP support, and agent social networking.
+* **[AstrBot](https://github.com/AstrBotDevs/AstrBot) ⭐ 41,577 | 🐛 1,627 | 🌐 Python | 📅 2026-10-08** - Python - Agentic IM chatbot infrastructure with broad IM platform support, LLM integrations, plugins, and AI features.
+* **[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) ⭐ 32,943 | 🐛 967 | 🌐 Rust | 📅 2026-10-09** - Rust - Trait-driven, zero-overhead AI infrastructure with a fully swappable core that deploys across environments.
+* **[NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,902 | 🐛 1,041 | 🌐 TypeScript | 📅 2026-10-06** - TypeScript - Lightweight container-sandboxed assistant designed to be simple to understand and extend via skills.
+* **[PicoClaw](https://github.com/sipeed/picoclaw) ⭐ 30,017 | 🐛 51 | 🌐 Go | 📅 2026-09-24** - Go - Ultra-efficient assistant for low-cost hardware with AI-bootstrapped migration, single-binary deploy, and support for old Android phones.
+* **[OpenFang](https://github.com/RightNow-AI/openfang) ⭐ 18,216 | 🐛 126 | 🌐 Rust | 📅 2026-07-02** - Rust - Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings.
+* **[IronClaw](https://github.com/nearai/ironclaw) ⭐ 12,645 | 🐛 1,547 | 🌐 Rust | 📅 2026-10-07** - Rust - OpenClaw-inspired personal assistant focused on privacy and security with local encrypted data and layered defenses.
+* **[NullClaw](https://github.com/nullclaw/nullclaw) ⭐ 8,111 | 🐛 73 | 🌐 Zig | 📅 2026-10-08** - Zig - Fully autonomous assistant infrastructure designed for tiny binaries, low memory usage, and highly portable deployment.
+* **[MimiClaw](https://github.com/memovai/mimiclaw) ⭐ 5,786 | 🐛 110 | 🌐 C | 📅 2026-10-04** - C - Pocket assistant for ESP32-S3 with no OS, low power usage, and local-first memory running continuously on USB power.
 * **[TinyClaw](https://github.com/TinyAGI/tinyclaw) ⭐ 3,621 | 🐛 72 | 🌐 TypeScript | 📅 2026-03-30** - Shell / TypeScript - Multi-agent, multi-team, multi-channel assistant where agents collaborate via chain execution and fan-out in isolated workspaces.
-* **[Moltis](https://github.com/moltis-org/moltis) ⭐ 2,884 | 🐛 106 | 🌐 Rust | 📅 2026-09-22** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel
-* **[zclaw](https://github.com/tnm/zclaw) ⭐ 2,234 | 🐛 11 | 🌐 C | 📅 2026-05-17** - C - The smallest possible AI personal assistant for ESP32.
-* **[droidclaw](https://github.com/unitedbyai/droidclaw) ⭐ 1,570 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-28** - TypeScript - OpenClaw-inspired assistant tailored for Android workflows with lightweight deployment and mobile-first automation.
-* **[picobot](https://github.com/louisho5/picobot) ⭐ 1,340 | 🐛 19 | 🌐 Go | 📅 2026-09-17** - Go - A lightweight self-hosted bot in a single binary, written in Go.
-* **[OpenCrabs](https://github.com/adolfousier/opencrabs) ⭐ 976 | 🐛 22 | 🌐 Rust | 📅 2026-10-08** - Rust - The self-improving autonomous AI agent. Every channel. Multi-provider LLM support, tool use, TUI, fallback chains, and cron jobs.
+* **[Moltis](https://github.com/moltis-org/moltis) ⭐ 2,887 | 🐛 106 | 🌐 Rust | 📅 2026-09-22** - Rust - Personal AI gateway with single-binary deployment, multi-provider LLM support, long-term memory, sandboxed execution, voice, MCP tools, and multi-channel
+* **[zclaw](https://github.com/tnm/zclaw) ⭐ 2,235 | 🐛 11 | 🌐 C | 📅 2026-05-17** - C - The smallest possible AI personal assistant for ESP32.
+* **[droidclaw](https://github.com/unitedbyai/droidclaw) ⭐ 1,571 | 🐛 19 | 🌐 TypeScript | 📅 2026-02-28** - TypeScript - OpenClaw-inspired assistant tailored for Android workflows with lightweight deployment and mobile-first automation.
+* **[picobot](https://github.com/louisho5/picobot) ⭐ 1,339 | 🐛 19 | 🌐 Go | 📅 2026-09-17** - Go - A lightweight self-hosted bot in a single binary, written in Go.
+* **[OpenCrabs](https://github.com/adolfousier/opencrabs) ⭐ 976 | 🐛 17 | 🌐 Rust | 📅 2026-10-08** - Rust - The self-improving autonomous AI agent. Every channel. Multi-provider LLM support, tool use, TUI, fallback chains, and cron jobs.
 * **[Microclaw](https://github.com/microclaw/microclaw) ⭐ 747 | 🐛 3 | 🌐 Rust | 📅 2026-10-07** - Rust - An agentic AI assistant for chat surfaces, inspired by nanoclaw and incorporating some of its design ideas.
 * **[ZeptoClaw](https://github.com/qhkm/zeptoclaw) ⭐ 653 | 🐛 60 | 🌐 Rust | 📅 2026-09-28** - Rust - Ultra-lightweight \~4MB binary with 7-layer security (container isolation, prompt injection detection, secret scanning). One-command OpenClaw migration.
 * **[HermitClaw](https://github.com/brendanhogan/hermitclaw) ⭐ 329 | 🐛 7 | 🌐 Python | 📅 2026-02-17** - Python - A tiny autonomous AI creature that lives in a folder, continuously researching and generating reports, scripts, and notes.
@@ -36,15 +36,15 @@
 * **[SupaClaw](https://github.com/vincenzodomina/supaclaw) ⭐ 60 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-15** - Typescript - Built entirely on Supabase built-in features. Use within your Supabase account or fully self-host.
 * **[Autobot](https://github.com/crystal-autobot/autobot) ⭐ 47 | 🐛 7 | 🌐 Crystal | 📅 2026-09-26** - Crystal - AI assistant with kernel-enforced sandboxing, multi-provider LLM, voice, vision, cron, and MCP tools.
 * **[pickle-bot](https://github.com/czl9707/pickle-bot) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-07-15** - Python - A lightweight self-hosted personal AI assistant
-* **[ClawDroid](https://github.com/KarakuriAgent/clawdroid) ⭐ 23 | 🐛 10 | 🌐 Go | 📅 2026-03-21** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
+* **[ClawDroid](https://github.com/KarakuriAgent/clawdroid) ⭐ 24 | 🐛 10 | 🌐 Go | 📅 2026-03-21** - Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.
 * **[BabyClaw](https://github.com/yogesharc/babyclaw) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-17** - JavaScript - Lightweight single-file alternative to OpenClaw built on Claude Agent SDK. Telegram-controlled with voice messages, personality adaptation, and cron automation.
 * **[Clawlet](https://github.com/Kxrbx/Clawlet) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-09-08** - Python -  A lightweight AI agent framework with identity awareness inspired by OpenClaw, aimed to be very simple to set up and easy to use, get up and running in 2 minutes.
 * **[Atombot](https://github.com/daegwang/atombot) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-03-14** - Python - Atomic-lightweight personal AI assistant (\~500 LOC core) with multi-provider support, local model autodetection, a Telegram gateway, persistent memory, and scheduled reminders.
 * **[TrinityClaw](https://github.com/TrinityClaw/trinity-claw) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-04** - Python - Self-hosted local only AI agent with web automation, memory, code execution, email, calendar, and local/cloud LLM support.
   access.
 * **[shrew](https://github.com/Masmedeam/shrew) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-03-22** - Rust - Compact autonomous assistant runtime emphasizing speed, minimal resource usage, and extensible agent behavior.
-* **[AngelClaw](https://github.com/Abdur-rahmaanJ/angel-claw) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-10-07** - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.
-* **[moxxy](https://github.com/moxxy-ai/moxxy) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-07** - Rust - A self-hosted multi-agent AI framework built in Rust.
+* **[AngelClaw](https://github.com/Abdur-rahmaanJ/angel-claw) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-10-08** - Python - Lean. Compatible. Based OpenClaw. With a focus on implementing research concepts in the claw.
+* **[moxxy](https://github.com/moxxy-ai/moxxy) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09** - Rust - A self-hosted multi-agent AI framework built in Rust.
 * **[troublemaker](https://github.com/tinyfatco/troublemaker) ⭐ 1 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-07** - TypeScript - Mom, liberated. Multi-platform AI agent runtime.
 * **[Flowly AI](https://github.com/Nocetic/flowlyai)** - TypeScript - Flow-oriented AI assistant framework focused on composing agent workflows and tool-driven task execution.
 
@@ -54,4 +54,4 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

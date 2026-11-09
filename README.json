@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:41:47Z",
-            "open_issues": 7744,
+            "last_commit": "2026-11-09T01:49:39Z",
+            "open_issues": 7811,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 394148,
+            "stars": 394216,
             "topics": [
               "ai",
               "assistant",
@@ -44,11 +44,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:40:32Z",
-            "open_issues": 53630,
+            "last_commit": "2026-11-09T01:46:21Z",
+            "open_issues": 53859,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 261524,
+            "stars": 261781,
             "topics": [
               "ai",
               "ai-agent",
@@ -79,11 +79,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T17:23:52Z",
-            "open_issues": 868,
+            "last_commit": "2026-11-08T16:46:11Z",
+            "open_issues": 873,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 49908,
+            "stars": 49940,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -121,11 +121,11 @@
             "id": 575865240,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T09:21:36Z",
-            "open_issues": 1172,
+            "last_commit": "2026-11-09T01:49:09Z",
+            "open_issues": 1177,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 46373,
+            "stars": 46450,
             "topics": [
               "agent",
               "ai",
@@ -160,11 +160,11 @@
             "id": 1156956890,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T23:33:06Z",
-            "open_issues": 1156,
+            "last_commit": "2026-11-09T01:46:35Z",
+            "open_issues": 1159,
             "owner": "zeroclaw-labs",
             "repo": "zeroclaw",
-            "stars": 33217,
+            "stars": 33286,
             "topics": [
               "agent",
               "agentic",
@@ -190,11 +190,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T00:43:13Z",
-            "open_issues": 1047,
+            "last_commit": "2026-11-08T16:33:19Z",
+            "open_issues": 1050,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31093,
+            "stars": 31098,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -221,7 +221,7 @@
             "open_issues": 36,
             "owner": "sipeed",
             "repo": "picoclaw",
-            "stars": 30105,
+            "stars": 30113,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -268,7 +268,7 @@
             "id": 1148615527,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T10:34:59Z",
+            "last_commit": "2026-11-08T20:50:00Z",
             "open_issues": 1571,
             "owner": "nearai",
             "repo": "ironclaw",
@@ -299,7 +299,7 @@
             "open_issues": 109,
             "owner": "nullclaw",
             "repo": "nullclaw",
-            "stars": 8210,
+            "stars": 8215,
             "topics": [
               "ai",
               "assistant",
@@ -325,7 +325,7 @@
             "open_issues": 110,
             "owner": "memovai",
             "repo": "mimiclaw",
-            "stars": 5820,
+            "stars": 5822,
             "topics": [
               "ai",
               "assistant",
@@ -376,7 +376,7 @@
             "open_issues": 121,
             "owner": "moltis-org",
             "repo": "moltis",
-            "stars": 2946,
+            "stars": 2951,
             "topics": [
               "ai-agent",
               "ai-assistant",
@@ -431,7 +431,7 @@
             "open_issues": 20,
             "owner": "unitedbyai",
             "repo": "droidclaw",
-            "stars": 1609,
+            "stars": 1610,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -452,7 +452,7 @@
             "open_issues": 19,
             "owner": "louisho5",
             "repo": "picobot",
-            "stars": 1345,
+            "stars": 1346,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -469,11 +469,11 @@
             "id": 1152019564,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T01:31:22Z",
+            "last_commit": "2026-11-08T17:11:01Z",
             "open_issues": 2,
             "owner": "microclaw",
             "repo": "microclaw",
-            "stars": 754,
+            "stars": 755,
             "topics": [
               "bot",
               "nanoclaw",
@@ -546,7 +546,7 @@
             "open_issues": 84,
             "owner": "letta-ai",
             "repo": "lettabot",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -597,7 +597,7 @@
             "open_issues": 8,
             "owner": "genlayerlabs",
             "repo": "subzeroclaw",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "agentic",
               "agentic-ai",
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:42:50.448Z",
+    "last_updated": "2026-11-09T01:50:45.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI agents inspired by OpenClaw",
@@ -941,7 +941,7 @@
       "open_issues": 21,
       "owner": "machinae",
       "repo": "awesome-claws",
-      "stars": 514,
+      "stars": 515,
       "topics": [
         "ai-agents",
         "awesome",

@@ -15,11 +15,11 @@
             "id": 1103012935,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T04:25:43Z",
-            "open_issues": 9302,
+            "last_commit": "2026-11-28T04:05:05Z",
+            "open_issues": 9388,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 395317,
+            "stars": 395358,
             "topics": [
               "ai",
               "assistant",
@@ -44,11 +44,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-27T04:22:56Z",
-            "open_issues": 54673,
+            "last_commit": "2026-11-28T04:01:04Z",
+            "open_issues": 54907,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 266446,
+            "stars": 266624,
             "topics": [
               "ai",
               "ai-agent",
@@ -79,11 +79,11 @@
             "id": 1147094660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-27T04:02:23Z",
-            "open_issues": 865,
+            "last_commit": "2026-11-27T17:20:56Z",
+            "open_issues": 862,
             "owner": "HKUDS",
             "repo": "nanobot",
-            "stars": 50373,
+            "stars": 50405,
             "topics": [
               "agent-framework",
               "ai-agent",
@@ -121,11 +121,11 @@
             "id": 575865240,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-27T04:25:26Z",
-            "open_issues": 1280,
+            "last_commit": "2026-11-28T03:45:07Z",
+            "open_issues": 1299,
             "owner": "AstrBotDevs",
             "repo": "AstrBot",
-            "stars": 47612,
+            "stars": 47662,
             "topics": [
               "agent",
               "ai",
@@ -160,11 +160,11 @@
             "id": 1156956890,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T00:44:45Z",
-            "open_issues": 1270,
+            "last_commit": "2026-11-28T02:53:08Z",
+            "open_issues": 1290,
             "owner": "zeroclaw-labs",
             "repo": "zeroclaw",
-            "stars": 33638,
+            "stars": 33643,
             "topics": [
               "agent",
               "agentic",
@@ -190,11 +190,11 @@
             "id": 1146738089,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-27T00:41:19Z",
-            "open_issues": 1062,
+            "last_commit": "2026-11-27T09:31:27Z",
+            "open_issues": 1065,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 31170,
+            "stars": 31173,
             "topics": [
               "ai-agents",
               "ai-assistant",
@@ -223,10 +223,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-26T17:15:31Z",
-            "open_issues": 23,
+            "open_issues": 26,
             "owner": "sipeed",
             "repo": "picoclaw",
-            "stars": 30173,
+            "stars": 30176,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -247,7 +247,7 @@
             "open_issues": 141,
             "owner": "RightNow-AI",
             "repo": "openfang",
-            "stars": 18285,
+            "stars": 18286,
             "topics": [
               "agent-framework",
               "ai-agents",
@@ -277,7 +277,7 @@
             "open_issues": 1575,
             "owner": "nearai",
             "repo": "ironclaw",
-            "stars": 12720,
+            "stars": 12721,
             "topics": [
               "codeact",
               "openclaw",
@@ -304,7 +304,7 @@
             "open_issues": 112,
             "owner": "nullclaw",
             "repo": "nullclaw",
-            "stars": 8244,
+            "stars": 8245,
             "topics": [
               "ai",
               "assistant",
@@ -330,7 +330,7 @@
             "open_issues": 112,
             "owner": "memovai",
             "repo": "mimiclaw",
-            "stars": 5846,
+            "stars": 5849,
             "topics": [
               "ai",
               "assistant",
@@ -381,7 +381,7 @@
             "open_issues": 127,
             "owner": "moltis-org",
             "repo": "moltis",
-            "stars": 2988,
+            "stars": 2989,
             "topics": [
               "ai-agent",
               "ai-assistant",
@@ -415,7 +415,7 @@
             "open_issues": 11,
             "owner": "tnm",
             "repo": "zclaw",
-            "stars": 2243,
+            "stars": 2245,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -457,7 +457,7 @@
             "open_issues": 18,
             "owner": "louisho5",
             "repo": "picobot",
-            "stars": 1343,
+            "stars": 1342,
             "topics": []
           },
           "first_seen": "2026-08-28T06:14:08.386Z"
@@ -478,7 +478,7 @@
             "open_issues": 2,
             "owner": "microclaw",
             "repo": "microclaw",
-            "stars": 758,
+            "stars": 757,
             "topics": [
               "bot",
               "nanoclaw",
@@ -672,27 +672,6 @@
         },
         {
           "node_type": "item",
-          "title": "pickle-bot",
-          "description": "Python - A lightweight self-hosted personal AI assistant",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Your own AI assistant, speak like a cat.",
-            "homepage": null,
-            "id": 1160553237,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-10-26T00:34:48Z",
-            "open_issues": 1,
-            "owner": "czl9707",
-            "repo": "pickle-bot",
-            "stars": 30,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:14:08.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "ClawDroid",
           "description": "Go / Kotlin - PicoClaw fork rebuilt as a native Android app with embedded Go backend, chat UI, voice mode, and digital assistant capabilities.",
           "children": [],
@@ -707,6 +686,27 @@
             "open_issues": 10,
             "owner": "KarakuriAgent",
             "repo": "clawdroid",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:14:08.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pickle-bot",
+          "description": "Python - A lightweight self-hosted personal AI assistant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your own AI assistant, speak like a cat.",
+            "homepage": null,
+            "id": 1160553237,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-10-26T00:34:48Z",
+            "open_issues": 1,
+            "owner": "czl9707",
+            "repo": "pickle-bot",
             "stars": 30,
             "topics": []
           },
@@ -854,7 +854,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T10:49:52Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Abdur-rahmaanJ",
             "repo": "angel-claw",
             "stars": 9,
@@ -879,7 +879,7 @@
             "id": 1237065288,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T21:00:46Z",
+            "last_commit": "2026-11-28T01:54:41Z",
             "open_issues": 12,
             "owner": "moxxy-ai",
             "repo": "moxxy",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:25:45.968Z",
+    "last_updated": "2026-11-28T04:05:57.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome AI agents inspired by OpenClaw",
